@@ -28,3 +28,4 @@ bin/
 # System related
 *.DS_Store
 Thumbs.db
+#将删除 sentinel-dashboard/src/main/java/com/alibaba/csp/sentinel/dashboard/rule/nacos/
